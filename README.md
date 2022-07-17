@@ -6,6 +6,10 @@
 
 [Baseline Modeling](https://www.kaggle.com/code/sugataghosh/foursquare-location-matching-baseline-modeling)
 
+[K-Nearest Neighbors](https://www.kaggle.com/code/sugataghosh/foursquare-location-matching-knn)
+
+[XGBoost](https://www.kaggle.com/code/sugataghosh/foursquare-location-matching-xgboost)
+
 ## Point of Interest (POI)
 
 A [point of interest](https://en.wikipedia.org/wiki/Point_of_interest) (POI) is a specific point location that someone may find useful or interesting. An example is a point on the Earth representing the location of the Eiffel Tower, or a point on Mars representing the location of its highest mountain, [Olympus Mons](https://en.wikipedia.org/wiki/Olympus_Mons). Most consumers use the term when referring to hotels, campsites, fuel stations or any other categories used in modern automotive navigation systems. Users of a mobile device can be provided with geolocation and time aware POI service that recommends geolocations nearby and with a temporal relevance (e.g. POI to special services in a ski resort are available only in winter). The notion of POI is widely used in cartography, especially in electronic variants including GIS, and GPS navigation software.
